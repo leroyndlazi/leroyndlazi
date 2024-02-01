@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leroyndlazi
+- 👋 Hi, I’m leroy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python programming 
 - 📫 How to reach me leroyndlazi81@gmail.com 
