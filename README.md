@@ -1,6 +1,5 @@
 - 👋 Hi, I’m leroy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python programming 
+- I am proficient in Python and C++ programming
 - 📫 How to reach me leroyndlazi81@gmail.com 
   
 
