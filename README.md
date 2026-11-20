@@ -1,4 +1,4 @@
-- 👋 Hi, I’m leroy
+- 👋 Hi, I’m Leroy
 - 💻 I am proficient in Python and C++ programming
 - 📫 How to reach me leroyndlazi81@gmail.com or www.linkedin.com/in/leroy-ndlazi-430245235
   
